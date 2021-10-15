@@ -11,10 +11,10 @@
 ---- run client:
 1. open traminal --> path/bloXrouteProject
 2. go run main.go 
-3. typing options:
-   {"action": "AddItem","textMessage":"newItem"}
-   {"action": "GetItem","id":2}
-   {"action": "RemoveItem","id":1}
-   {"action":"GetAllItems"}
+3. type one of the options:
+   {"action": "AddItem","textMessage":"newItem"},
+   {"action": "GetItem","id":2},
+   {"action": "RemoveItem","id":1},
+   {"action":"GetAllItems"},
    
 *You can run several clients
